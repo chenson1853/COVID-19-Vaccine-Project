@@ -40,7 +40,7 @@ Vaccination rates show a strong association with political and socioeconomic cha
 
 Example Visualization
 
-![Vaccination Choropleth](outputs/figures/full_vax_by_county.png)
+![Vaccination Choropleth](outputs/full_vax_by_county.png)
 
 #### Tools Used
 
