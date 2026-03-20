@@ -38,7 +38,20 @@ Stratified regression models comparing counties with ≥55% GOP vote share to th
 
 Vaccination rates show a strong association with political and socioeconomic characteristics at the county level. While higher GOP vote share is associated with lower vaccination rates overall, other factors such as educational attainment, health coverage, and poverty also contribute to variation in vaccination uptake. Stratified models suggest that the predictors of vaccination rates differ between more Republican-leaning and more Democratic-leaning counties.
 
-### Example Visualization
+## Dashboard
+An interactive dashboard was built using Microsoft Power BI to allow readers to explore relationships between COVID-19 vaccination rates and political, demographic, and health variables
+
+#### Key Features
+
+Geographic visualization of vaccination rates
+
+Correlation analysis of GOP vote share
+
+Comparative analysis across political spectrum
+
+Exploration of demographic and health factors
+
+### Additonal Visualization
 
 ![Vaccination Choropleth](03_outputs/full_vax_by_county.png)
 
@@ -54,6 +67,8 @@ usmaps
 
 linear regression modeling
 
+Microsoft Power BI
+
 ## Full Report
 
 [Vaccination Analysis PDF](02_report/VaxReport.pdf)
@@ -66,6 +81,7 @@ linear regression modeling
 
 02_outputs/
   full_vax_by_county.png
+  vaxdash.pdf
 
 03_report/
   vaccination_analysis_report.pdf
